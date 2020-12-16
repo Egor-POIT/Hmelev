@@ -1,4 +1,4 @@
-# Install new packages
+# Install new packagess
 install.packages(c("plyr", "ggplot2", "highcharter", "sp", "dplyr", 
                    "lubridate", "rmarkdown", "tidyr", "nycflights13", 
                    "ggthemes", "xts", "cluster", "maps"))
